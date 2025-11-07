@@ -12,6 +12,8 @@
 * **Query:** 'Tesla'
 * **Data Period:** Articles fetched from 2025-11-05.
 * **Total Articles Fetched:** 300 articles.
+  
+*Because it was a free API key that was used, the code of retrieving the articles might throw an error if run after 2 months from the date the articles were fetched*
 
 ---
 
